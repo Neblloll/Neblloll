@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ttewx)
 
 ![Matheus Barros Github stats](https://github-readme-stats.vercel.app/api?username=Neblloll&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neblloll&layout=compact&theme=dracula)
 
 ## Tecnologias que eu sei 🧑‍💻
 
